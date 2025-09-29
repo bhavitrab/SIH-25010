@@ -71,7 +71,7 @@ Implement on-device AI for offline features and cloud-based analytics for scalab
 *Conduct A/B testing and monitor system usage for performance optimization.
 
 *Train AI models with local agricultural datasets for greater relevance.
-<img width="817" height="666"  src="https://www.bing.com/th/id/OIP.TVcqnYnJwzItHK3XmnvsdgHaEU?w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0)">
+<img width="817" height="666"  src="https://www.bing.com/th/id/OIP.ypZjFTmXMij0wkEQDH_CzQHaDt?w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0">
 
 
 ## Impact and Benefits
