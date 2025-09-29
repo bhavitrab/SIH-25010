@@ -71,7 +71,7 @@ Implement on-device AI for offline features and cloud-based analytics for scalab
 *Conduct A/B testing and monitor system usage for performance optimization.
 
 *Train AI models with local agricultural datasets for greater relevance.
-<img width="817" height="666"  src="https://www.bing.com/th/id/OIP.MZ6KtbTGhyvf8tCTaPbt4AHaHa?w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0">
+<img width="817" height="666" alt="C:\Users\acer\Pictures\Screenshots\Screenshot 2025-09-29 204108.png" src="https://www.bing.com/th/id/OIP.MZ6KtbTGhyvf8tCTaPbt4AHaHa?w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0">
 
 ## Impact and Benefits
 High mobile penetration among Indian farmers supports widespread app adoption.
